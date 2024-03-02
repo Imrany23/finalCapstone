@@ -36,7 +36,8 @@ To install this project please copy task_manager.py and create 2 empty input .tx
    * password = password
 3. The program then gives the option to enter username or -1 to register or e to exit
    Initially login as admin and enter the credentials as per step 2
-4. Once logged in you will presented with the main menu with the options
+   ![lOGIN](login.JPEG)
+5. Once logged in you will presented with the main menu with the options
 
 
 ### Credits
