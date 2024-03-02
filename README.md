@@ -42,26 +42,29 @@ To install this project please copy task_manager.py and the program will create 
 4. Once logged in you will presented with the main menu with the options
 
    ![Menu Options](menu.JPG)
-5. To select an option enter the letter for the desired option for example to register a user enter r and follow the onscreen instructions as below:
+5. To select an option enter the letter for the desired option.
+
+### Register a user
+1. From the main menu enter **r** and follow the onscreen instructions as below:
 
    ![Register user](register.JPG)
 
    After selecting any option you will be always returned to the main menu
 
 ### Add a task
-1. From the main menu enter a
+1. From the main menu enter **a**
 2. Follow the onscreen prompts as below, please remember username is case sensitive
 
    ![Adding Task](adding_task.JPG)
 
 ### View all tasks
-1. From the main menu enter va
+1. From the main menu enter **va**
 2. All details of all tasks will be outputted
  
    ![View All Tasks](va_task.JPG)
 
 ### View my tasks
-1. From the main menu enter vm
+1. From the main menu enter **vm**
 2. All details of all tasks belonging to the current user will be shown
    
    ![View My Tasks](vm_task.JPG)
@@ -82,9 +85,9 @@ To install this project please copy task_manager.py and the program will create 
 
 This report allows the user to create two output files in the same folder as the task_manager.py file.
 
-To generate reports please enter gr at the main menu.
+To generate reports please enter **gr** at the main menu.
 
-#### Description of Output Files
+#### Description of Report Output Files
 
 user_overview - gives summary on the amount of users and tasks and then a summary of each users current task status including completion and overdue tasks. Please see screenshot below for the completed steps if you want to amend and mark complete.
 
@@ -104,7 +107,7 @@ For example:
 
 Display statistics allows the admin to view all details which are contained in the two file user.txt and tasks.txt to be displayed on screen.
 
-To display statistics enter ds on the main menu.
+To display statistics enter **ds** on the main menu.
 
 User output
 
@@ -116,7 +119,7 @@ Task output
 
 ### Exit the Task Manager
 
-To exit from the main menu please enter e on the main menu, you will be asked to confirm after confirmation you will exit.
+To exit from the main menu please enter **e** on the main menu, you will be asked to confirm after confirmation you will exit.
 
   ![Exit screenshot](exit.JPG)
 
