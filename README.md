@@ -74,7 +74,7 @@ To install this project please copy task_manager.py and the program will create 
      
    ![View amended my tasks](vm_amend.JPG)
 
-   The amended task
+   The amended task with changes to username, due date and completed fields.
 
    ![Amended_task_after chamges](vm_after.JPG) 
 
@@ -99,6 +99,8 @@ For example:
 ### Display statistics
 
 Display statistics allows the admin to view all details which are contained in the two file user.txt and tasks.txt to be displayed on screen.
+
+To display statistics enter ds on the main menu.
 
 User output
 
