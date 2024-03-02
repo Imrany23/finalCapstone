@@ -82,6 +82,10 @@ To install this project please copy task_manager.py and the program will create 
 
 This report allows the user to create two output files in the same folder as the task_manager.py file.
 
+To generate reports please enter gr at the main menu.
+
+#### Description of Output Files
+
 user_overview - gives summary on the amount of users and tasks and then a summary of each users current task status including completion and overdue tasks. Please see screenshot below for the completed steps if you want to amend and mark complete.
 
   ![View user_overview](user_overview.JPG)
