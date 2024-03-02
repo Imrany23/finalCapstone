@@ -15,6 +15,8 @@ The task was to create functions and add functionality to a legacy solution of T
 
 ### Installation
 
+To use this program you must have Python v3.11 installed on your computer and you should have access to code editor such MS Visual Code to run the code. 
+
 To install this project please copy task_manager.py and create 2 empty input .txt files tasks.txt and users.txt in the same folder.
 
 * task_manager.py  - contains all the python code required
@@ -25,5 +27,21 @@ To install this project please copy task_manager.py and create 2 empty input .tx
   * description,
   * assignment date
   * completed flag
- 
+
+### Usage
+
+1. Run the file task_manager.py file in the Python editor or Python CMD shell
+2. A default admin account is created with
+   * username = admin
+   * password = password
+3. The program then gives the option to enter username or -1 to register or e to exit
+   Initially login as admin and enter the credentials as per step 2
+4. Once logged in you will presented with the main menu with the options
+
+
+### Credits
+
+Imran Bhatti Jan 2024
+
+HyperionDev Software Engineering Bootcamp course (Nov 2023 - Mar 2024)
 
