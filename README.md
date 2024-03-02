@@ -4,8 +4,7 @@ Software Engineering Task 21 Part 2
 ## Project Description
 This project was a task to incorporate all the Python programming techniques which were taught on the software engineering bootcamp course @HyperionDev including functions, input and output of files and create a Task Manager. This was the biggest and most complex task of the course and used a variety of sources and libraries. I received 100% grade for my work on this task.
 
-## Main overview of course
-
+## Overview of functionality
 The task was to create functions and add functionality to a legacy solution of Task_manager.py. The task manager after logging in allows the users login and register with a username and password. The program allows users to
 
 * register and login to user accounts
@@ -17,7 +16,6 @@ The task was to create functions and add functionality to a legacy solution of T
 * allow admin only access to display statistics on screen
 
 ## Installation
-
 To use this program you must have Python v3.11 installed on your computer and you should have access to code editor such MS Visual Code to run the code. 
 
 To install this project please copy task_manager.py and the program will create 2 empty input .txt files tasks.txt and users.txt in the same folder on the initial run.
