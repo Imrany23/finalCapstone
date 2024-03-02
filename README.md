@@ -72,7 +72,11 @@ To install this project please copy task_manager.py and the program will create 
    * change the user it has been assigned to (the username must exist already)
    * change the due date
      
-   ![View amended my tasks](vm_amended.JPG)
+   ![View amended my tasks](vm_amend.JPG)
+
+   The amended task
+
+   ![Amended_task_after chamges](vm_after.JPG) 
 
 ### Generate Reports
 
@@ -85,12 +89,12 @@ user_overview - gives summary on the amount of users and tasks and then a summar
 task_overview.txt - gives the following details
 For example:
 
-The total number of tasks which have been generated and tracked by the task manager is 7.
-The total number of completed tasks is 2.
-The total number of incomplete tasks is 5.
-The total number of incomplete and overdue tasks are 3.
-The percentage of tasks that are incomplete is 71.4%.
-The percentage of tasks that are overdue is 42.9%.
+* The total number of tasks which have been generated and tracked by the task manager is 7.
+* The total number of completed tasks is 2.
+* The total number of incomplete tasks is 5.
+* The total number of incomplete and overdue tasks are 3.
+* The percentage of tasks that are incomplete is 71.4%.
+* The percentage of tasks that are overdue is 42.9%.
 
 ### Display statistics
 
