@@ -81,20 +81,19 @@ To install this project please copy task_manager.py and the program will create 
 
    ![Amended_task_after chamges](vm_after.JPG) 
 
-### Generate Reports
+### Generate reports
 
 This report allows the user to create two output files in the same folder as the task_manager.py file.
 
 To generate reports please enter **gr** at the main menu.
 
-#### Description of Report Output Files
+#### Description of report output files
 
 user_overview - gives summary on the amount of users and tasks and then a summary of each users current task status including completion and overdue tasks. Please see screenshot below for the completed steps if you want to amend and mark complete.
 
   ![View user_overview](user_overview.JPG)
 
-task_overview.txt - gives the following details
-For example:
+task_overview.txt - gives summary task details as shown in the example below:
 
 * The total number of tasks which have been generated and tracked by the task manager is 7.
 * The total number of completed tasks is 2.
